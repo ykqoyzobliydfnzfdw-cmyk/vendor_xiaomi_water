@@ -108,7 +108,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/water/proprietary/vendor/bin/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.keymaster_attestation@1.1-service \
     vendor/xiaomi/water/proprietary/vendor/bin/hw/vendor.mediatek.hardware.mmagent@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.mmagent@1.1-service \
     vendor/xiaomi/water/proprietary/vendor/bin/hw/vendor.mediatek.hardware.mms@1.6-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.mms@1.6-service \
-    vendor/xiaomi/water/proprietary/vendor/lib/android.hardware.power@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.power@1.0.so \
     vendor/xiaomi/water/proprietary/vendor/bin/hw/vendor.mediatek.hardware.mtkpower@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.mtkpower@1.0-service \
     vendor/xiaomi/water/proprietary/vendor/bin/hw/vendor.mediatek.hardware.nvram@1.1-service-lazy:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.nvram@1.1-service-lazy \
     vendor/xiaomi/water/proprietary/vendor/bin/hw/vendor.mediatek.hardware.nwk_opt@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.nwk_opt@1.0-service \
